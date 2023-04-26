@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.down-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  color: black;
+  height: 90vh;
+  width: 100vw;
+}
+.products {
+  height: 400px;
+  width: 500px;
+}
